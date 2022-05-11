@@ -1,0 +1,3 @@
+[submodule "colorgram.py"]
+	path = colorgram.py
+	url = https://github.com/obskyr/colorgram.py.git
